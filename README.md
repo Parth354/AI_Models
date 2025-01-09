@@ -31,5 +31,5 @@ This repository contains a collection of machine learning models implemented in 
 **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ml-models.git
-   cd ml-models
+   git clone https://github.com/parth354/ML_Models.git
+   cd ML_Models
